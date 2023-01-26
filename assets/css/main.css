@@ -58,6 +58,20 @@ blockquote, q {
 
 }
 
+.subtitle2 {
+	font-weight: 300;
+	font-size: 1.5rem;
+	line-height: 1.375;
+	color: #0000007f;
+	letter-spacing: -0.05em;
+	margin: 0 0 1rem 0;
+	top:-15px;
+    position:relative;
+
+
+}
+
+
 
 table {
 	border-collapse: collapse;
